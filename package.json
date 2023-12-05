@@ -1,0 +1,15 @@
+{
+  "name": "liga-smk-pahse-1",
+  "version": "1.0.0",
+  "description": "landing page for website liga smk",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "M Dzaki ardiansyah",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
