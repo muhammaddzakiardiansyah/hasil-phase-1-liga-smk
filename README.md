@@ -7,5 +7,3 @@ npm i
 #and
 
 npm run dev
-
-`__bash__`
